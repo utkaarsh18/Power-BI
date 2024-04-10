@@ -1,1 +1,1 @@
-PowerBI dashboards
+Interactive PowerBI dashboards
