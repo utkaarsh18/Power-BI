@@ -1,8 +1,8 @@
-📊 Financial Analysis Dashboard – Overview
+📊 **Financial Analysis Dashboard – Overview**
 
 This project presents an interactive Financial Performance Dashboard built using Microsoft Power BI and the Financial Sample dataset. The dashboard provides a clear overview of sales performance, profitability, discount patterns, product performance, and regional trends to support better business decision-making.
 
-📌 What This Dashboard Highlights
+📌 **What This Dashboard Highlights**
 
 📈 Sales & Profit Performance
 Tracks key financial KPIs such as Sales, Orders, Profit, Profit Margin, and Discounts to evaluate overall business growth.
@@ -22,7 +22,7 @@ Evaluates profit margins across different business segments to understand which 
 📅 Sales Trend Over Time
 Displays monthly sales patterns, helping identify fluctuations, trends, and potential seasonal demand.
 
-🔍 Key Findings
+**🔍 Key Findings**
 
 📊 Sales increased by 249% year-over-year, indicating strong business expansion.
 
@@ -36,7 +36,7 @@ Displays monthly sales patterns, helping identify fluctuations, trends, and pote
 
 💸 Over 57% of sales involve high discounts, which may be impacting profitability.
 
-🚀 Business Impact
+**🚀 Business Impact**
 
 Helps identify high-performing markets and products for strategic focus.
 
