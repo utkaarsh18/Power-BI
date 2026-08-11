@@ -1,6 +1,6 @@
 A professional Power BI dashboard analyzing employee attrition across demographics, tenure, role, and compensation, built on the IBM HR Analytics dataset. This project focuses on transforming raw transactional HR data into interactive, executive-ready insights.
 
-![Alt](IBM-Employee Attrition/dashboard.png)
+![Alt](https://github.com/utkaarsh18/Power-BI/blob/a244383f90e62a5e46d4f867620ef6e27a2168bb/IBM-Employee%20Attrition/dashboard.png)
 
 **Overview**
 The goal of this project is to answer a critical business question: **Where is employee attrition concentrated, and which cohorts present the highest risk to the organization?**
