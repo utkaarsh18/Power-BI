@@ -23,6 +23,7 @@ Tenure Segmentation: Raw years at the company were grouped into clean operationa
 2) 1-3 yr (Early career integration)
 3) 3-5 yr (Mid-tenure)
 4) 5+ yr (Established tenure)
+
 Equal Age Binning: To ensure a mathematically balanced, unbiased view across age groups, the numeric Age column was compiled into uniform **10-year equal brackets** using Power BI's automatic binning tools:
 1) 10-19
 2) 20-29
