@@ -32,9 +32,13 @@ Equal Age Binning: To ensure a mathematically balanced, unbiased view across age
 5) 50-59
 
 **DAX Measure**:
+
 **Total Employees**    = COUNTROWS('HR')
+
 **Attrition Count**   = CALCULATE([Total Employees], 'HR'[Attrition] = "Yes")
+
 **Attrition Rate**     = DIVIDE([Attrition Count], [Total Employees])
+
 **Avg Monthly Income** = AVERAGE('HR'[MonthlyIncome])
 
 **Key Findings & Data Insights**
